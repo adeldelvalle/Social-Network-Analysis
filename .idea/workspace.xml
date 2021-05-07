@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9defe52-530f-4bdb-b27e-a4a88611d386" name="Default Changelist" comment="" />
+    <list default="true" id="b9defe52-530f-4bdb-b27e-a4a88611d386" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Preprocessing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Preprocessing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter Tweet Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter Tweet Analysis.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620349310075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Topic Modeling processing, changed preprocessing">
+      <created>1620349711282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620349711282</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
